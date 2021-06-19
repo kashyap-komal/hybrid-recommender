@@ -1,0 +1,54 @@
+.centre{
+	height: 500px;
+	width: 30%;
+	color:red;
+	font: 1em sans-serif;
+	margin-top:8%;
+	margin-left:35%;
+	font-size: large;
+	background-color: black;
+}
+h1{
+	text-align: center;
+	color: crimson;
+}
+.btn{
+	margin-top: 2%;
+	text-align: center;
+	margin-left: 35%;
+	color:white;
+	size: 3%;
+	width: 30%;
+	background-color:black;
+}
+input{
+	margin-top: 3%;
+	margin-left: 7%;
+	width: 50%;
+	height: 40px;
+}
+p{
+	color: red;
+}
+.name{
+	margin-left: 2%;
+}
+body{
+	
+	background-image: url("https://i.stack.imgur.com/3T2NS.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p{
+	text-align: center;
+}
+.mid{
+	height: 100px;
+	width: 30%;
+	color:red;
+	font: 1em sans-serif;
+	margin-top:8%;
+	margin-left:35%;
+	font-size: large;
+	background-color: black;
+}
